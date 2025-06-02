@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univariate Analysis Day 20.md",
+                "file": "Understanding Your Data Day 19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Univariate Analysis Day 20"
+              "title": "Understanding Your Data Day 19"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "51b713710799e5f9",
   "lastOpenFiles": [
-    "Understanding Your Data Day 19.md",
+    "day5to15_100daysML.pdf",
     "Univariate Analysis Day 20.md",
+    "Understanding Your Data Day 19.md",
     "Untitled.canvas",
     "Welcome.md",
     "create a link.md"
