@@ -4,9 +4,10 @@ __pycache__/
 *$py.class
 kaggle/
 env/
-.obsidian
-repo/.ipynb_checkpoints/
-repo/100daysMLNotes/
+.ipynb_checkpoints/
+100daysMLNotes/AcademicsSEM5/
+100daysMLNotes/'Google MongoDB'/
+100daysMLNotes/projects/
 # C extensions
 *.so
 
@@ -14,7 +15,7 @@ repo/100daysMLNotes/
 .Python
 build/
 develop-eggs/
-dist/
+dist
 downloads/
 eggs/
 .eggs/
