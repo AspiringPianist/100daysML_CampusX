@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 kaggle/
 env/
+.obsidian
+repo/.ipynb_checkpoints/
+repo/100daysMLNotes/
 # C extensions
 *.so
 
