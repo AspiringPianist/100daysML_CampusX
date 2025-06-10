@@ -1,7 +1,0 @@
-- [x] SmartePasteAI - Qualcomm Rejected
-- [ ] Converge conversations and derive perfect prompt for user
-- [ ] [Kaggle CMI dataset](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data)
-- [ ] **[[Multivariate Analysis Day 21]] CampusX 100days of ML**
-- [ ] **[[Google MongoDB/GitLab challenge]]** - (my idea is already done as adk sample code)
-- [ChatGPT Summary](https://chatgpt.com/share/68411dcd-1038-8011-9bb4-9030f5c989c7)
-- [Claude Brainstorming](https://claude.ai/chat/34b5c28d-8d9f-4461-b994-bc554c82da3e)
